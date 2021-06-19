@@ -19,7 +19,7 @@ class empleadosSeeder extends Seeder
                 'nombre' => 'Luis',
                 'apellidos' => 'Lopez',
                 'correo' => Str::random(10).'@gmail.com',
-                'salario_diario' => '50000',
+                'salario_diario' => '1000',
                 'puesto' => 'desarrollador web',
                 'estatus' => 1,
             ]);

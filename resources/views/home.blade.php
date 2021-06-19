@@ -17,6 +17,11 @@
                     You are logged in!
                 </div>
             </div>
+            <hr>
+            <div class="d-flex justify-content-center">
+                <a class="btn btn-primary mx-1" href="{{route('calculo.salario')}}" target="_blanck">Calculo Salario</a>
+                <a class="btn btn-primary mx-1" href="">CRUD</a>
+            </div>
         </div>
     </div>
 </div>
